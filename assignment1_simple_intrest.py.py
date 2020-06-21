@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jun 20 17:14:31 2020
+
+@author: SATHWIK
+"""
+
+
+p=float(input("enter the value of principle p"))
+t=float(input("enter the value of time t"))
+r=float(input("enter the value of rate of interest r"))
+s=(p*t*r)/100
+print("simple interest is",s )
+10
